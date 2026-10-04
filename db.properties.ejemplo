@@ -1,0 +1,5 @@
+# Copie este archivo como db.properties y ajuste los valores.
+# Si no existe, el sistema usa estos mismos valores por defecto.
+db.url=jdbc:mysql://localhost:3306/pcsac_certificados?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Lima
+db.usuario=root
+db.clave=

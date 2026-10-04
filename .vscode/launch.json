@@ -1,0 +1,22 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Interfaz grafica (Main)",
+      "request": "launch",
+      "mainClass": "pe.pcsac.app.Main",
+      "console": "integratedTerminal",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    },
+    {
+      "type": "java",
+      "name": "Escenario de demostracion (consola)",
+      "request": "launch",
+      "mainClass": "pe.pcsac.app.Main",
+      "args": "demo",
+      "console": "integratedTerminal",
+      "vmArgs": "-Dfile.encoding=UTF-8"
+    }
+  ]
+}

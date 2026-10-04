@@ -1,0 +1,5 @@
+bin/
+out/
+certificados/
+db.properties
+.DS_Store
